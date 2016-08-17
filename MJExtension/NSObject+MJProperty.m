@@ -16,7 +16,7 @@
 
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wundeclared-selector"
-#pragma clang diagnostic ignored "-Warc-performSelector-leaks"
+
 
 static const char MJReplacedKeyFromPropertyNameKey = '\0';
 static const char MJReplacedKeyFromPropertyName121Key = '\0';
